@@ -25,7 +25,7 @@ def retrieval
                   "oil paintings" => 3
                  }
 
-hash["oil paintings".to_i] = 3
+hash["oil paintings"]
 
 end
 
