@@ -11,7 +11,7 @@ def shipping_manifest
   # We have 5 whale bone corsets, 2 porcelain vases and 3 oil paintings
 the_manifest = {
 "whale bone corsets" => 5
-"percelain vases" => 2
+"porcelain vases" => 2
 "oil paintings" => 3
 }
 end
